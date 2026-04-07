@@ -1,0 +1,6 @@
+CMakeFiles/
+CMakeCache.txt
+code
+test_bitset
+test_expr
+*.o
